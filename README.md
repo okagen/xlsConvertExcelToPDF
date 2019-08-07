@@ -1,5 +1,6 @@
 # xlsConvertExcelToPDF
-Convert some sheets in Excel files to PDF files. 複数のExcelファイル内のシートをPDFファイルに変換する。
+Convert some sheets in Excel files to PDF files.   
+複数のExcelファイル内のシートをPDFファイルに変換する。
 
 ## Usage
 
@@ -11,6 +12,7 @@ Create a list of Excel files to be processed.
 ### step_2
 Specify the output directory of PDF files.  
 PDFの出力先を指定。
+
 
 ### step_3
 Each sheets of the Excel files are converted to PDF and output to the specified output directory.  
